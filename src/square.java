@@ -1,4 +1,4 @@
-//square root
+//square root of no.
 public class square {
     public static int root(int x){
         if(x==0 || x==1)
